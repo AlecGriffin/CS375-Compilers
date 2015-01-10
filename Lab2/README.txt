@@ -79,8 +79,6 @@ Other
 
 
 
-http://www.rexegg.com/regex-greed.html
-http://www.opensource.apple.com/source/flex/flex-20.3/flex/examples/manual/pascal.lex?txt
 
 
 
