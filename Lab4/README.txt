@@ -45,15 +45,20 @@ Optimizations (if any)
 Run Instructions
 
 	1) Place all required files into directory
-	2) make compiler
 
-	3) compiler < [test file]
+	2) Run trivbtest, graph1test, or pasrectest
 
 	OR
 
-	3) compiler < [test file] > [test file].s
-	   a) cc driver.c [test file].s -lm
-	   b) a.out
+	2) make compiler
+
+		3) compiler < [test file]
+
+		OR
+
+		3) compiler < [test file] > [test file].s
+	   		a) cc driver.c [test file].s -lm
+	   		b) a.out
 
 Notes
 

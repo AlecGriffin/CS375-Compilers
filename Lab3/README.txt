@@ -61,16 +61,23 @@ Optimizations (if any)
 Run Instructions
 
 	1) 	Place all required files into directory
-	2) 	make parser
-	
-	3) 	parser < [test file]
+
+	2)	Run testparser
+
+		3)	Console output is in trivb.out, graph1.out, and pasrec.out
 
 	OR
 
-	3)	parser
-		[manual input]
-		...
-		^d
+	2) 	make parser
+	
+		3) 	parser < [test file]
+
+		OR
+
+		3)	parser
+			[manual input]
+			...
+			^d
 
 Notes
 	
