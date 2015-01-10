@@ -21,12 +21,6 @@
    Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA. */
 
 /*
- * Lab 4 Submission
- * Name:        Brian Chow
- * Email:       brianj.chow@yahoo.com
- * EID:         bc23784
- * CS Login:    bc23784
- *
  * Last modified: 0242 14-08-14
  */
 

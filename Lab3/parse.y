@@ -26,12 +26,6 @@
     the IF statement, but Yacc's default resolves it in the right way.*/
 
 /*
- * Lab 3 Part 3 Submission
- * Name:		Brian Chow
- * Email:		brianj.chow@yahoo.com
- * EID:			bc23784
- * CS Login:	bc23784
- *
  * Last modified: 2330, 14/08/07
  */
 

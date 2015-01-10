@@ -5,12 +5,6 @@
    replace them if you wish.  */
 
 /*
- * Lab 3 Part 2 Submission
- * Name:		Brian Chow
- * Email:		brianj.chow@yahoo.com
- * EID:			bc23784
- * CS Login:	bc23784
- *
  * Last modified: 0359, 14/07/30
  */
 

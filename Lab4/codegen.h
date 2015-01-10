@@ -2,12 +2,6 @@
 /* 15 Aug 13 */
 
 /*
- * Lab 4 Submission
- * Name:		Brian Chow
- * Email:		brianj.chow@yahoo.com
- * EID:			bc23784
- * CS Login:	bc23784
- *
  * Last modified: 0321, 14-08-15
  */
 

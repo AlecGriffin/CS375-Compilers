@@ -1,8 +1,5 @@
 /*
  * printtoken.h
- *
- *  Created on: Jul 15, 2014
- *      Author: Brian
  */
 
 #ifndef PRINTTOKEN_H_

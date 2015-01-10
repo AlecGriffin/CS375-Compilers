@@ -31,11 +31,6 @@
    */
 
 /*
- * Name:		Brian Chow
- * Email:		brianj.chow@yahoo.com
- * EID:			bc23784
- * CS Login:	bc23784
- *
  * Last modified: 0132, 14/07/25
  */
 
